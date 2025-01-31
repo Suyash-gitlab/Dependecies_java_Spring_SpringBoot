@@ -8,6 +8,8 @@ public class HelloWorld
 		System.Out.println("Hello India..!!");
 		System.Out.println("Hello Maharashtra..!!");
 		System.Out.println("Hello pune..!!");
+		System.Out.println("Hello Fortune..!!");
+
 
 	}
 
