@@ -9,6 +9,8 @@ public class HelloWorld
 		System.Out.println("Hello Maharashtra..!!");
 		System.Out.println("Hello pune..!!");
 		System.Out.println("Hello Fortune..!!");
+		System.Out.println("Hello Technology..!!");
+
 
 
 	}
